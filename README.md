@@ -19,6 +19,6 @@ Visualizing Elderly Mental Health during Covid through the lens of Capabilities 
 
 **Teammates:**
 
-@Chrismm918
-@AloyBuragohain
-@hashtagpragya
+Christopher Miller @Chrismm918,
+Aloy Buragohain    @AloyBuragohain,
+Pragya Neupane     @hashtagpragya
